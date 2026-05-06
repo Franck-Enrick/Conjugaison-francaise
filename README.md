@@ -29,7 +29,6 @@ conjugaison_app/
 │
 ├── main.py                  # Interface graphique TKinter
 ├── conjugation_engine.py    # Moteur de conjugaison (re + dictionnaires)
-├── requirements.txt         # Dépendances (stdlib uniquement)
 └── README.md
 ```
 
