@@ -46,7 +46,7 @@ Le cœur du projet. Il contient :
 | `conjuguer_tous_les_temps()` | Conjugaison à tous les temps |
 | `generer_forme()` | Gestion des corrections orthographiques |
 
-### `main.py`
+### `Conj.py`
 
 Interface TKinter structurée en classes :
 
