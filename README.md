@@ -4,7 +4,7 @@ Application desktop de conjugaison automatique des verbes français, développé
 
 ---
 
-## ✨ Fonctionnalités
+##  Fonctionnalités
 
 - **Détection automatique du groupe** (1er, 2ème, 3ème groupe) via expressions régulières (`re`)
 - **Conjugaison des 6 temps simples** :
@@ -22,7 +22,7 @@ Application desktop de conjugaison automatique des verbes français, développé
 
 ---
 
-## 🏗️ Architecture du projet
+##  Architecture du projet
 
 ```
 conjugaison_app/
@@ -60,11 +60,11 @@ Interface TKinter structurée en classes :
 
 ---
 
-## 🚀 Installation & Lancement
+##  Installation & Lancement
 
 ---
 
-## 🖥️ Utilisation
+##  Utilisation
 
 1. **Saisir un verbe** à l'infinitif dans le champ de texte (ex. `parler`, `finir`, `être`)
 2. **Sélectionner un temps** dans la liste ou cocher **Tous les temps**
@@ -91,7 +91,7 @@ Interface TKinter structurée en classes :
 
 ---
 
-## 📚 Exemples de conjugaison
+##  Exemples de conjugaison
 
 ### Verbe régulier — 1er groupe : `parler`
 
